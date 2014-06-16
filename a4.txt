@@ -1,0 +1,10 @@
+
+
+
+8 Handshake 1
+9 Handshake 2
+10 Handshake 3
+29 "Hello" gesendet
+30 ACK "Hello"
+36 "World!" gesendet
+37 ACK "World!"

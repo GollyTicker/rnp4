@@ -1,0 +1,15 @@
+
+
+27 GET /
+28 ACK from server
+29 Moved Permanently to /vejr/
+30 ACK to server
+31 GET /vejr/
+.
+.
+.
+.
+
+
+Andere angefragte Server:
+z.B. 231: http://platform.twitter.com/widgets.js
