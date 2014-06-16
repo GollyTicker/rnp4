@@ -14,6 +14,6 @@ sudo /sbin/route del -net 192.168.17.0/24 gw 192.168.18.1 dev eth1
 
 # Test
 # Source
-ping -s 1000 -c 4 192.168.x.x -W 1
+# ping -s 1000 -c 4 192.168.x.x -W 1
 # Target
-ping -s 1000 -c 4 192.168.x.x -W 1
+# ping -s 1000 -c 4 192.168.x.x -W 1

@@ -5,6 +5,6 @@ sudo /sbin/route add -net 192.168.18.0/24 gw 192.168.17.1 dev eth1
 sudo /sbin/route add -net 192.168.17.0/24 gw 192.168.18.1 dev eth1
 
 #Source
-ping -s 1000 -c 4 192.168.x.x -W 1
+# ping -s 1000 -c 4 192.168.17.16 -W 1 # funktioniert jetzt nun
 #Target
-ping -s 1000 -c 4 192.168.x.x -W 1
+# ping -s 1000 -c 4 192.168.x.x -W 1
