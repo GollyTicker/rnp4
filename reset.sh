@@ -17,4 +17,3 @@ sudo /usr/sbin/iptables -A OUTPUT -d 141.22.27.104 -j ACCEPT
 
 sudo /usr/sbin/iptables -A INPUT -s cifs.informatik.haw-hamburg.de -j ACCEPT
 sudo /usr/sbin/iptables -A OUTPUT -d cifs.informatik.haw-hamburg.de -j ACCEPT
-
